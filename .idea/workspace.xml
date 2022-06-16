@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7ab2a01-8eca-4e10-ac19-b80fc3e5b4a8" name="Changes" comment="" />
+    <list default="true" id="e7ab2a01-8eca-4e10-ac19-b80fc3e5b4a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/messages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages/messages.repository.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/messages/messages.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/messages/messages.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/messages/messages.controller.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +16,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27,7 +37,8 @@
     "last_opened_file_path": "/Users/phuocnguyen/Projects/nestjs-server",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "AndroidSdkUpdater",
-    "show.migrate.to.gradle.popup": "false"
+    "show.migrate.to.gradle.popup": "false",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external"
   }
 }]]></component>
   <component name="RunManager">
@@ -44,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655286449890</updated>
       <workItem from="1655286451208" duration="230000" />
+      <workItem from="1655372848435" duration="187000" />
     </task>
     <servers />
   </component>
