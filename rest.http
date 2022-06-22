@@ -2,6 +2,23 @@ POST http://localhost:3000/auth/signup HTTP/1.1
 content-type: application/json
 
 {
-    "email": "vodanh.2901@gmail.com",
+    "email": "aaaa@gmail.com",
     "password": "123123123"
+}
+
+###find id
+GET http://localhost:3000/auth/2
+
+###find all
+GET http://localhost:3000/auth?email=aaaa@gmail.com
+
+###delete id
+DELETE  http://localhost:3000/auth/2
+
+###update user
+PATCH http://localhost:3000/auth/1
+Content-Type: application/json
+
+{
+    "password": "phuoc@renolation.com"
 }
