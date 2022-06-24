@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7ab2a01-8eca-4e10-ac19-b80fc3e5b4a8" name="Changes" comment="" />
+    <list default="true" id="e7ab2a01-8eca-4e10-ac19-b80fc3e5b4a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/interceptors/serialize.interceptor.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/user.entity.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/user.entity.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users/users.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/users/users.controller.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +15,16 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,10 +40,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/Users/phuocnguyen/Projects/nestjs-server",
+    "last_opened_file_path": "F:/Projects/nestjs-server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "AndroidSdkUpdater",
-    "show.migrate.to.gradle.popup": "false"
+    "prettierjs.PrettierConfiguration.Package": "F:\\Projects\\nestjs-server\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "show.migrate.to.gradle.popup": "false",
+    "ts.external.directory.path": "F:\\Projects\\nestjs-server\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
@@ -44,10 +65,39 @@
       <option name="presentableId" value="Default" />
       <updated>1655286449890</updated>
       <workItem from="1655286451208" duration="230000" />
+      <workItem from="1656078632636" duration="178000" />
+      <workItem from="1656095260129" duration="192000" />
+      <workItem from="1656095485174" duration="1109000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app.module.ts</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
